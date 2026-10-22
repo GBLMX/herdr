@@ -1,0 +1,17 @@
+[package]
+name = "herdr-gui-poc"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.88"
+description = "A minimal iced_term frontend for Herdr panes, built on Ferriso."
+license = "Apache-2.0"
+publish = false
+
+[workspace]
+
+[dependencies]
+ferriso-core = { git = "https://github.com/GBLMX/Ferriso", rev = "e021c99cebd729f272f203fa924f5e9b56322ae2", package = "ferriso-core" }
+ferriso-gui = { git = "https://github.com/GBLMX/Ferriso", rev = "e021c99cebd729f272f203fa924f5e9b56322ae2", package = "ferriso-gui" }
+iced_term = "0.8.0"
+serde_json = "1"
+tokio = { version = "1", features = ["process", "time"] }

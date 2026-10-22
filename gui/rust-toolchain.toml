@@ -1,0 +1,5 @@
+[toolchain]
+# The GUI package is standalone; the parent Herdr workspace pins 1.96.1.
+# Stable keeps the prototype buildable when that pinned toolchain is absent.
+channel = "stable"
+components = ["rustfmt", "clippy"]
