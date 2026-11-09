@@ -1,0 +1,6 @@
+c958833fa81333bf07a255f7d1325e6892daca1e:vendor/libghostty-vt/.github/workflows/release-tag.yml:generic-api-key:259
+c958833fa81333bf07a255f7d1325e6892daca1e:vendor/libghostty-vt/.github/workflows/release-tip.yml:generic-api-key:686
+c958833fa81333bf07a255f7d1325e6892daca1e:vendor/libghostty-vt/.github/workflows/release-tip.yml:generic-api-key:931
+c958833fa81333bf07a255f7d1325e6892daca1e:vendor/libghostty-vt/.github/workflows/release-tip.yml:generic-api-key:1128
+c958833fa81333bf07a255f7d1325e6892daca1e:vendor/libghostty-vt/src/input/Binding.zig:generic-api-key:4889
+c958833fa81333bf07a255f7d1325e6892daca1e:vendor/libghostty-vt/src/terminal/snapshot/terminal.zig:generic-api-key:1035
